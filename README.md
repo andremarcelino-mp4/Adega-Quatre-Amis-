@@ -1,1 +1,1 @@
-# Adega-Quatre-Amis-
+# Adega-Quatre-Amis- Sistema desktop para gerenciamento de adegas, desenvolvido em Python (CustomTkinter) com banco MySQL. Permite cadastro, listagem, atualização e exclusão lógica de vinhos, fabricantes e pedidos. Interface moderna e intuitiva. Demonstração: https://adegaquatreamis.netlify.app
